@@ -1,1 +1,398 @@
-"['Hyundai Accent Hatchback', 14]","['Mercedes-Benz CLS-Class', 3]","['Nissan Sentra', 9]","['BMW M3 Convertible', 2]","['BMW 5 Series Sedan', 29]","['Chevrolet Avalanche', 12]","['model', 1]","['Chevrolet Corvette ZR1', 6]","['BMW X5', 10]","['Lexus ES', 3]","['Mazda Mazda3 4-Door', 26]","['Bentley Continental GTC', 3]","['Suzuki SX4 Crossover', 2]","['Maserati Quattroporte', 6]","['Aston Martin Virage Volante', 2]","['Kia Sportage', 21]","['Ford Explorer', 26]","['Mazda MX-5 Miata', 28]","['Buick Lucerne', 13]","['Suzuki SX4 Sportback', 4]","['Mitsubishi Endeavor', 6]","['Nissan JUKE', 2]","['Chevrolet Camaro Convertible', 16]","['BMW X6', 6]","['Hyundai Genesis Coupe', 28]","['Mercedes-Benz SLK-Class', 7]","['Dodge Journey', 19]","['Aston Martin DBS Volante', 6]","['Ford Edge', 25]","['Nissan Xterra', 23]","['GMC Savana', 41]","['Honda CR-Z', 4]","['BMW 3 Series Sports Wagon', 12]","['Jeep Patriot', 23]","['Hyundai Sonata Hybrid', 1]","['Saab 9-3 SportCombi', 13]","['Honda Civic Coupe', 8]","['Lamborghini Gallardo Coupe', 3]","['Mazda Mazda5', 8]","['Chevrolet Corvette Z06', 9]","['Jeep Wrangler', 52]","['Honda Accord Crosstour Hatchback', 9]","['Toyota Sequoia', 29]","['Honda Ridgeline', 6]","['Ford Mustang Shelby GT500 Convertible', 3]","['Chevrolet Sonic Sedan', 6]","['Buick Enclave', 20]","['BMW 1 Series Coup', 4]","['Volvo S80', 6]","['Porsche Cayman', 5]","['Volkswagen Golf R 2-Door', 1]","['Land Rover Range Rover', 9]","['Chevrolet Suburban', 3]","['MINI Cooper Convertible', 15]","['Volkswagen Golf 2-Door', 9]","['Mercedes-Benz CL-Class', 8]","['Bentley Azure T', 1]","['Volvo XC70', 15]","['Nissan Versa Sedan', 13]","['Bentley Mulsanne', 1]","['BMW 1 Series Convertible', 10]","['Mercedes-Benz E-Class Coupe', 4]","['Ford Mustang Convertible', 24]","['Chrysler Sebring Convertible', 3]","['Chevrolet Silverado 1500', 116]","['Chevrolet Corvette Grand Sport Convertible', 24]","['Ford Escape', 32]","['Ford Transit Connect Van', 2]","['Toyota Venza', 8]","['Audi A8', 7]","['Infiniti QX56', 6]","['Chevrolet Malibu', 19]","['GMC Yukon', 16]","['Mitsubishi Outlander Sport', 1]","['Buick Verano', 3]","['Kia Optima', 16]","['Chevrolet Impala', 9]","['Chevrolet Camaro Coupe', 31]","['Acura MDX', 3]","['Jaguar XF', 12]","['Saab 9-3 Sport Sedan', 20]","['Volvo V70', 1]","['Bentley Continental Supersports Convertible', 2]","['Hyundai Elantra Sedan', 15]","['Volkswagen Jetta', 38]","['Jeep Compass', 12]","['Hyundai Genesis Sedan', 7]","['Kia Rio', 8]","['Audi TT RS', 1]","['Toyota RAV4', 24]","['Chevrolet Cruze', 16]","['Volkswagen GTI 2-Door', 4]","['Land Rover Range Rover Evoque', 5]","['Nissan 370Z Coupe', 20]","['Kia Forte Koup', 12]","['Ford F-150', 185]","['Ford Fusion', 29]","['Cadillac CTS-V Sedan', 6]","['Mitsubishi Lancer Evolution', 2]","['Suzuki Kizashi', 7]","['Volkswagen Passat', 6]","['Volvo S60', 4]","['Mitsubishi Galant', 6]","['Chrysler 300', 14]","['Jaguar XK Convertible', 6]","['MINI Clubman', 15]","['Honda Element', 11]","['Acura RL', 3]","['Volvo C70', 6]","['Audi S4 Sedan', 3]","['Honda Fit', 12]","['Honda Accord Sedan', 28]","['Chevrolet Suburban Three-Quarter-Ton', 4]","['Mercedes-Benz E-Class Wagon', 1]","['Lincoln MKS', 9]","['Kia Optima Hybrid', 1]","['BMW ALPINA B7 Sedan', 4]","['Chevrolet Express', 21]","['Bentley Continental GT', 3]","['Infiniti M', 13]","['BMW 3 Series Convertible', 17]","['Subaru Impreza WRX Sedan', 8]","['Jaguar XJ', 18]","['Volkswagen Touareg Hybrid', 1]","['Mitsubishi Eclipse Coupe', 14]","['Dodge Grand Caravan', 15]","['Transit Connect Van', 4]","['Audi A6 Sedan', 5]","['Lincoln MKT', 8]","['Scion tC', 10]","['Honda Odyssey', 14]","['Suzuki Equator', 15]","['Volvo C30', 20]","['Subaru Impreza Hatchback', 19]","['Buick Lacrosse', 22]","['Lotus Exige', 5]","['Chevrolet HHR Wagon', 14]","['Hyundai Veloster', 1]","['Subaru Impreza Sedan', 13]","['Ford Fiesta Sedan', 6]","['Cadillac CTS Coupe', 14]","['Volkswagen Routan', 12]","['Kia Forte 5-Door', 6]","['Ford Crown Victoria', 1]","['Acura TSX Sport Wagon', 2]","['Jaguar XK Coup', 8]","['Chevrolet Corvette Coupe', 24]","['Mazda Mazdaspeed3', 3]","['GMC Sierra 1500 Hybrid', 8]","['Ford Ranger', 38]","['Dodge Viper Coup', 1]","['Lamborghini Gallardo Spyder', 1]","['Toyota Highlander', 25]","['Land Rover LR2', 4]","['Volvo S40', 7]","['BMW 3 Series Sedan', 18]","['Scion xB', 10]","['MINI Cooper Hardtop', 15]","['Lexus IS', 14]","['Lexus IS F', 2]","['BMW 5 Series Gran Turismo', 7]","['Audi R8 Coupe', 6]","['Maybach 57', 5]","['Hyundai Accent Sedan', 6]","['Toyota Yaris Sedan', 4]","['Volvo XC60', 21]","['Mercedes-Benz C-Class', 20]","['Chevrolet Corvette Grand Sport Coupe', 24]","['Land Rover LR4', 7]","['Ford Focus Sedan', 17]","['Lincoln MKZ', 2]","['Audi Q5', 6]","['Toyota FJ Cruiser', 9]","['Saab 9-3 Convertible', 14]","['Toyota Yaris 3-Door Liftback', 7]","['Lexus LFA', 1]","['Mazda CX-9', 18]","['Honda Civic Sedan', 35]","['Volkswagen Touareg', 8]","['Suzuki SX4 Sedan', 8]","['Acura TSX', 10]","['Audi A3', 8]","['Mazda Mazda6', 23]","['Mitsubishi Lancer Sportback', 3]","['Mitsubishi Outlander', 6]","['GMC Yukon Hybrid', 10]","['Aston Martin Virage Coup', 2]","['Mazda Mazda3 5-Door', 13]","['Chevrolet Aveo5', 10]","['BMW 6 Series Convertible', 1]","['Ferrari 612 Scaglietti', 1]","['Saab 9-4X', 5]","['Chevrolet HHR Panel', 8]","['Lincoln MKZ Sedan', 4]","['Cadillac CTS-V Wagon', 4]","['BMW 6 Series Coup', 1]","['Hyundai Elantra Touring', 14]","['Lexus IS C', 9]","['Porsche 911 Coupe', 16]","['Jeep Liberty', 25]","['Cadillac CTS-V Coupe', 4]","['Transit Connect Wagon', 4]","['Ford Focus 5-Door', 4]","['Maserati GranTurismo Convertible', 2]","['Chevrolet Sonic Hatchback', 8]","['BMW 7 Series', 17]","['Ford Flex', 26]","['Porsche Cayenne S Hybrid', 1]","['Ford E-150 Van', 12]","['Chevrolet Suburban Half-Ton', 6]","['Nissan Juke', 2]","['Nissan Armada', 36]","['Audi A7', 1]","['Bentley Continental Supersports Coupe', 1]","['Ford Expedition', 52]","['Maybach Landaulet', 3]","['BMW 5 Series Sports Wagon', 2]","['Jeep Grand Cherokee', 48]","['Maybach 62', 5]","['Dodge Challenger', 11]","['Hyundai Tucson', 29]","['Cadillac CTS Sport Wagon', 28]","['BMW X3', 4]","['Toyota Yaris 5-Door Liftback', 8]","['Toyota Sienna', 33]","['Rolls-Royce Ghost', 2]","['Audi S5 Coupe', 6]","['Lexus LX', 2]","['Infiniti EX', 16]","['Chevrolet Silverado 1500 Hybrid', 12]","['Nissan Pathfinder', 33]","['Dodge Caliber', 11]","['Lexus GS', 6]","['Ford Shelby GT500 Coupe', 1]","['Toyota Camry', 26]","['Ford Transit Connect Wagon', 2]","['Audi Q7', 12]","['Audi A4 Sedan', 9]","['Porsche Boxster', 5]","['GMC Acadia', 28]","['Cadillac Escalade Hybrid', 10]","['Acura TL', 8]","['Mercedes-Benz G-Class', 4]","['Ford Fiesta Hatchback', 4]","['Chrysler Town and Country', 9]","['Chrysler 200 Convertible', 3]","['Infiniti M Hybrid', 1]","['BMW M6 Convertible', 1]","['Nissan Cube', 6]","['BMW ActiveHybrid 7 Sedan', 3]","['Lotus Elise', 5]","['Toyota Tacoma', 38]","['Cadillac CTS Sport Sedan', 36]","['Honda Pilot', 20]","['Rolls-Royce Phantom Sedan', 4]","['Nissan Altima Coupe', 7]","['Audi A6 Avant', 2]","['Infiniti G37 Convertible', 8]","['Mazda CX-7', 13]","['Cadillac SRX Crossover', 7]","['Chrysler 200 Sedan', 4]","['Ford E-350 Super Duty Van', 16]","['Mitsubishi Eclipse Spyder', 7]","['Lexus RX', 2]","['Aston Martin V8 Vantage Roadster', 5]","['Bentley Continental Supersports', 1]","['MINI Countryman', 12]","['Volkswagen Golf R 4-Door', 1]","['Hyundai Sonata', 25]","['Cadillac SRX', 16]","['Kia Sedona', 7]","['Nissan 370Z Roadster', 11]","['Land Rover Range Rover Sport', 10]","['Chevrolet Colorado', 115]","['Volkswagen Beetle', 3]","['Subaru Impreza WRX Hatchback', 9]","['Ford Focus Coupe', 4]","['Infiniti IPL G Coupe', 4]","['Lincoln MKX', 6]","['Kia Soul', 17]","['Aston Martin DB9 Volante', 7]","['Porsche Cayenne', 12]","['Volkswagen CC', 10]","['Dodge Dakota', 28]","['Aston Martin V8 Vantage Coup', 5]","['Scion xD', 6]","['Lincoln Town Car', 4]","['Mercedes-Benz GLK-Class', 4]","['Dodge Charger', 14]","['Nissan Titan', 70]","['Audi S6', 2]","['Volvo V50', 5]","['Hyundai Veracruz', 13]","['Aston Martin V12 Vantage', 4]","['BMW M6 Coup', 1]","['Kia Rio5', 6]","['BMW 1 Series Coupe', 7]","['Rolls-Royce Phantom Coupe', 2]","['Saab 9-5 Sedan', 7]","['Ford E-350 Super Duty Wagon', 16]","['Volkswagen Tiguan', 15]","['Cadillac STS', 13]","['Audi R8 Spyder', 4]","['Dodge Durango', 22]","['BMW Z4 Roadster', 5]","['Dodge Avenger', 11]","['Lotus Evora', 1]","['Chevrolet Malibu Hybrid', 1]","['Subaru Outback', 14]","['Chevrolet Corvette Convertible', 24]","['Infiniti G37 Sedan', 10]","['Kia Forte', 15]","['Cadillac Escalade EXT', 6]","['Mercedes-Benz SL-Class', 3]","['Mazda Tribute', 18]","['Mercury Milan', 10]","['Honda Accord Coupe', 15]","['Volvo XC90', 18]","['Audi A5', 2]","['lexus IS F', 1]","['GMC Sierra 1500', 124]","['Buick Regal', 13]","['Hyundai Equus', 4]","['Bentley Brooklands', 1]","['Nissan Versa Hatchback', 6]","['Mercury Mariner', 16]","['Ford Taurus', 15]","['GMC Terrain', 36]","['Mercedes-Benz R-Class', 6]","['Nissan Frontier', 55]","['Volkswagen Jetta SportWagen', 11]","['Dodge Viper Convertible', 1]","['Ford E-250 Van', 16]","['Toyota Tundra', 66]","['Mercedes-Benz M-Class', 8]","['Dodge Ram 1500', 109]","['Lexus LS', 12]","['Cadillac DTS', 8]","['BMW M3 Coup', 2]","['Ford Mustang Shelby GT500 Coupe', 2]","['Aston Martin DB9 Coup', 7]","['Chevrolet Tahoe Hybrid', 4]","['Cadillac Escalade ESV', 24]","['Kia Sorento', 22]","['Toyota Avalon', 5]","['Porsche 911 Cabriolet', 12]","['Kia Rio 5-Door', 4]","['Acura ZDX', 3]","['GMC Yukon XL', 27]","['BMW 3 Series Coup', 29]","['Toyota Corolla', 13]","['Lincoln Navigator', 10]","['Volkswagen Golf 4-Door', 6]","['Aston Martin Rapide', 5]","['Hyundai Santa Fe', 27]","['Mercedes-Benz E-Class Sedan', 11]","['Volkswagen GTI 4-Door', 4]","['MINI Cooper Coupe', 5]","['Honda CR-V', 14]","['Mercedes-Benz GL-Class', 6]","['Audi A5 Cabriolet', 3]","['Cadillac Escalade', 24]","['Jeep Commander', 6]","['Toyota Matrix', 13]","['Audi A5 Coupe', 7]","['Hyundai Azera', 4]","['Mazda RX-8', 10]","['Toyota Land Cruiser', 2]","['GMC Canyon', 78]","['Chrysler Sebring Sedan', 3]","['Acura RDX', 4]","['Mercedes-Benz E-Class Cabriolet', 2]","['Subaru Legacy', 19]","['Dodge Nitro', 18]","['Suzuki Grand Vitara', 15]","['Chevrolet Traverse', 24]","['Toyota 4Runner', 16]","['Lamborghini Gallardo Coup', 1]","['Chevrolet Equinox', 43]","['Chevrolet Aveo', 5]","['Ford Mustang Coup', 25]","['Audi A4 Avant', 3]","['BMW M3 Sedan', 2]","['Chevrolet Tahoe', 12]","['Infiniti G37 Coupe', 12]","['Infiniti FX', 9]","['Mazda Mazda2', 8]","['Mercury Grand Marquis', 2]","['Maserati GranTurismo Coup', 4]","['Honda Civic Coup', 17]","['Mitsubishi Lancer', 6]","['Infiniti G25', 6]","['Rolls-Royce Phantom Drophead Coupe', 2]","['Ford E-150 Wagon', 10]","['Bentley Continental Flying Spur', 5]","['Subaru Forester', 23]","['Honda Accord Coup', 7]"
+item,count
+Hyundai Accent Hatchback,14
+Mercedes-Benz CLS-Class,3
+Nissan Sentra,9
+BMW M3 Convertible,2
+BMW 5 Series Sedan,29
+Chevrolet Avalanche,12
+model,1
+Chevrolet Corvette ZR1,6
+BMW X5,10
+Lexus ES,3
+Mazda Mazda3 4-Door,26
+Bentley Continental GTC,3
+Suzuki SX4 Crossover,2
+Maserati Quattroporte,6
+Aston Martin Virage Volante,2
+Kia Sportage,21
+Ford Explorer,26
+Mazda MX-5 Miata,28
+Buick Lucerne,13
+Suzuki SX4 Sportback,4
+Mitsubishi Endeavor,6
+Nissan JUKE,2
+Chevrolet Camaro Convertible,16
+BMW X6,6
+Hyundai Genesis Coupe,28
+Mercedes-Benz SLK-Class,7
+Dodge Journey,19
+Aston Martin DBS Volante,6
+Ford Edge,25
+Nissan Xterra,23
+GMC Savana,41
+Honda CR-Z,4
+BMW 3 Series Sports Wagon,12
+Jeep Patriot,23
+Hyundai Sonata Hybrid,1
+Saab 9-3 SportCombi,13
+Honda Civic Coupe,8
+Lamborghini Gallardo Coupe,3
+Mazda Mazda5,8
+Chevrolet Corvette Z06,9
+Jeep Wrangler,52
+Honda Accord Crosstour Hatchback,9
+Toyota Sequoia,29
+Honda Ridgeline,6
+Ford Mustang Shelby GT500 Convertible,3
+Chevrolet Sonic Sedan,6
+Buick Enclave,20
+BMW 1 Series Coup,4
+Volvo S80,6
+Porsche Cayman,5
+Volkswagen Golf R 2-Door,1
+Land Rover Range Rover,9
+Chevrolet Suburban,3
+MINI Cooper Convertible,15
+Volkswagen Golf 2-Door,9
+Mercedes-Benz CL-Class,8
+Bentley Azure T,1
+Volvo XC70,15
+Nissan Versa Sedan,13
+Bentley Mulsanne,1
+BMW 1 Series Convertible,10
+Mercedes-Benz E-Class Coupe,4
+Ford Mustang Convertible,24
+Chrysler Sebring Convertible,3
+Chevrolet Silverado 1500,116
+Chevrolet Corvette Grand Sport Convertible,24
+Ford Escape,32
+Ford Transit Connect Van,2
+Toyota Venza,8
+Audi A8,7
+Infiniti QX56,6
+Chevrolet Malibu,19
+GMC Yukon,16
+Mitsubishi Outlander Sport,1
+Buick Verano,3
+Kia Optima,16
+Chevrolet Impala,9
+Chevrolet Camaro Coupe,31
+Acura MDX,3
+Jaguar XF,12
+Saab 9-3 Sport Sedan,20
+Volvo V70,1
+Bentley Continental Supersports Convertible,2
+Hyundai Elantra Sedan,15
+Volkswagen Jetta,38
+Jeep Compass,12
+Hyundai Genesis Sedan,7
+Kia Rio,8
+Audi TT RS,1
+Toyota RAV4,24
+Chevrolet Cruze,16
+Volkswagen GTI 2-Door,4
+Land Rover Range Rover Evoque,5
+Nissan 370Z Coupe,20
+Kia Forte Koup,12
+Ford F-150,185
+Ford Fusion,29
+Cadillac CTS-V Sedan,6
+Mitsubishi Lancer Evolution,2
+Suzuki Kizashi,7
+Volkswagen Passat,6
+Volvo S60,4
+Mitsubishi Galant,6
+Chrysler 300,14
+Jaguar XK Convertible,6
+MINI Clubman,15
+Honda Element,11
+Acura RL,3
+Volvo C70,6
+Audi S4 Sedan,3
+Honda Fit,12
+Honda Accord Sedan,28
+Chevrolet Suburban Three-Quarter-Ton,4
+Mercedes-Benz E-Class Wagon,1
+Lincoln MKS,9
+Kia Optima Hybrid,1
+BMW ALPINA B7 Sedan,4
+Chevrolet Express,21
+Bentley Continental GT,3
+Infiniti M,13
+BMW 3 Series Convertible,17
+Subaru Impreza WRX Sedan,8
+Jaguar XJ,18
+Volkswagen Touareg Hybrid,1
+Mitsubishi Eclipse Coupe,14
+Dodge Grand Caravan,15
+Transit Connect Van,4
+Audi A6 Sedan,5
+Lincoln MKT,8
+Scion tC,10
+Honda Odyssey,14
+Suzuki Equator,15
+Volvo C30,20
+Subaru Impreza Hatchback,19
+Buick Lacrosse,22
+Lotus Exige,5
+Chevrolet HHR Wagon,14
+Hyundai Veloster,1
+Subaru Impreza Sedan,13
+Ford Fiesta Sedan,6
+Cadillac CTS Coupe,14
+Volkswagen Routan,12
+Kia Forte 5-Door,6
+Ford Crown Victoria,1
+Acura TSX Sport Wagon,2
+Jaguar XK Coup,8
+Chevrolet Corvette Coupe,24
+Mazda Mazdaspeed3,3
+GMC Sierra 1500 Hybrid,8
+Ford Ranger,38
+Dodge Viper Coup,1
+Lamborghini Gallardo Spyder,1
+Toyota Highlander,25
+Land Rover LR2,4
+Volvo S40,7
+BMW 3 Series Sedan,18
+Scion xB,10
+MINI Cooper Hardtop,15
+Lexus IS,14
+Lexus IS F,2
+BMW 5 Series Gran Turismo,7
+Audi R8 Coupe,6
+Maybach 57,5
+Hyundai Accent Sedan,6
+Toyota Yaris Sedan,4
+Volvo XC60,21
+Mercedes-Benz C-Class,20
+Chevrolet Corvette Grand Sport Coupe,24
+Land Rover LR4,7
+Ford Focus Sedan,17
+Lincoln MKZ,2
+Audi Q5,6
+Toyota FJ Cruiser,9
+Saab 9-3 Convertible,14
+Toyota Yaris 3-Door Liftback,7
+Lexus LFA,1
+Mazda CX-9,18
+Honda Civic Sedan,35
+Volkswagen Touareg,8
+Suzuki SX4 Sedan,8
+Acura TSX,10
+Audi A3,8
+Mazda Mazda6,23
+Mitsubishi Lancer Sportback,3
+Mitsubishi Outlander,6
+GMC Yukon Hybrid,10
+Aston Martin Virage Coup,2
+Mazda Mazda3 5-Door,13
+Chevrolet Aveo5,10
+BMW 6 Series Convertible,1
+Ferrari 612 Scaglietti,1
+Saab 9-4X,5
+Chevrolet HHR Panel,8
+Lincoln MKZ Sedan,4
+Cadillac CTS-V Wagon,4
+BMW 6 Series Coup,1
+Hyundai Elantra Touring,14
+Lexus IS C,9
+Porsche 911 Coupe,16
+Jeep Liberty,25
+Cadillac CTS-V Coupe,4
+Transit Connect Wagon,4
+Ford Focus 5-Door,4
+Maserati GranTurismo Convertible,2
+Chevrolet Sonic Hatchback,8
+BMW 7 Series,17
+Ford Flex,26
+Porsche Cayenne S Hybrid,1
+Ford E-150 Van,12
+Chevrolet Suburban Half-Ton,6
+Nissan Juke,2
+Nissan Armada,36
+Audi A7,1
+Bentley Continental Supersports Coupe,1
+Ford Expedition,52
+Maybach Landaulet,3
+BMW 5 Series Sports Wagon,2
+Jeep Grand Cherokee,48
+Maybach 62,5
+Dodge Challenger,11
+Hyundai Tucson,29
+Cadillac CTS Sport Wagon,28
+BMW X3,4
+Toyota Yaris 5-Door Liftback,8
+Toyota Sienna,33
+Rolls-Royce Ghost,2
+Audi S5 Coupe,6
+Lexus LX,2
+Infiniti EX,16
+Chevrolet Silverado 1500 Hybrid,12
+Nissan Pathfinder,33
+Dodge Caliber,11
+Lexus GS,6
+Ford Shelby GT500 Coupe,1
+Toyota Camry,26
+Ford Transit Connect Wagon,2
+Audi Q7,12
+Audi A4 Sedan,9
+Porsche Boxster,5
+GMC Acadia,28
+Cadillac Escalade Hybrid,10
+Acura TL,8
+Mercedes-Benz G-Class,4
+Ford Fiesta Hatchback,4
+Chrysler Town and Country,9
+Chrysler 200 Convertible,3
+Infiniti M Hybrid,1
+BMW M6 Convertible,1
+Nissan Cube,6
+BMW ActiveHybrid 7 Sedan,3
+Lotus Elise,5
+Toyota Tacoma,38
+Cadillac CTS Sport Sedan,36
+Honda Pilot,20
+Rolls-Royce Phantom Sedan,4
+Nissan Altima Coupe,7
+Audi A6 Avant,2
+Infiniti G37 Convertible,8
+Mazda CX-7,13
+Cadillac SRX Crossover,7
+Chrysler 200 Sedan,4
+Ford E-350 Super Duty Van,16
+Mitsubishi Eclipse Spyder,7
+Lexus RX,2
+Aston Martin V8 Vantage Roadster,5
+Bentley Continental Supersports,1
+MINI Countryman,12
+Volkswagen Golf R 4-Door,1
+Hyundai Sonata,25
+Cadillac SRX,16
+Kia Sedona,7
+Nissan 370Z Roadster,11
+Land Rover Range Rover Sport,10
+Chevrolet Colorado,115
+Volkswagen Beetle,3
+Subaru Impreza WRX Hatchback,9
+Ford Focus Coupe,4
+Infiniti IPL G Coupe,4
+Lincoln MKX,6
+Kia Soul,17
+Aston Martin DB9 Volante,7
+Porsche Cayenne,12
+Volkswagen CC,10
+Dodge Dakota,28
+Aston Martin V8 Vantage Coup,5
+Scion xD,6
+Lincoln Town Car,4
+Mercedes-Benz GLK-Class,4
+Dodge Charger,14
+Nissan Titan,70
+Audi S6,2
+Volvo V50,5
+Hyundai Veracruz,13
+Aston Martin V12 Vantage,4
+BMW M6 Coup,1
+Kia Rio5,6
+BMW 1 Series Coupe,7
+Rolls-Royce Phantom Coupe,2
+Saab 9-5 Sedan,7
+Ford E-350 Super Duty Wagon,16
+Volkswagen Tiguan,15
+Cadillac STS,13
+Audi R8 Spyder,4
+Dodge Durango,22
+BMW Z4 Roadster,5
+Dodge Avenger,11
+Lotus Evora,1
+Chevrolet Malibu Hybrid,1
+Subaru Outback,14
+Chevrolet Corvette Convertible,24
+Infiniti G37 Sedan,10
+Kia Forte,15
+Cadillac Escalade EXT,6
+Mercedes-Benz SL-Class,3
+Mazda Tribute,18
+Mercury Milan,10
+Honda Accord Coupe,15
+Volvo XC90,18
+Audi A5,2
+lexus IS F,1
+GMC Sierra 1500,124
+Buick Regal,13
+Hyundai Equus,4
+Bentley Brooklands,1
+Nissan Versa Hatchback,6
+Mercury Mariner,16
+Ford Taurus,15
+GMC Terrain,36
+Mercedes-Benz R-Class,6
+Nissan Frontier,55
+Volkswagen Jetta SportWagen,11
+Dodge Viper Convertible,1
+Ford E-250 Van,16
+Toyota Tundra,66
+Mercedes-Benz M-Class,8
+Dodge Ram 1500,109
+Lexus LS,12
+Cadillac DTS,8
+BMW M3 Coup,2
+Ford Mustang Shelby GT500 Coupe,2
+Aston Martin DB9 Coup,7
+Chevrolet Tahoe Hybrid,4
+Cadillac Escalade ESV,24
+Kia Sorento,22
+Toyota Avalon,5
+Porsche 911 Cabriolet,12
+Kia Rio 5-Door,4
+Acura ZDX,3
+GMC Yukon XL,27
+BMW 3 Series Coup,29
+Toyota Corolla,13
+Lincoln Navigator,10
+Volkswagen Golf 4-Door,6
+Aston Martin Rapide,5
+Hyundai Santa Fe,27
+Mercedes-Benz E-Class Sedan,11
+Volkswagen GTI 4-Door,4
+MINI Cooper Coupe,5
+Honda CR-V,14
+Mercedes-Benz GL-Class,6
+Audi A5 Cabriolet,3
+Cadillac Escalade,24
+Jeep Commander,6
+Toyota Matrix,13
+Audi A5 Coupe,7
+Hyundai Azera,4
+Mazda RX-8,10
+Toyota Land Cruiser,2
+GMC Canyon,78
+Chrysler Sebring Sedan,3
+Acura RDX,4
+Mercedes-Benz E-Class Cabriolet,2
+Subaru Legacy,19
+Dodge Nitro,18
+Suzuki Grand Vitara,15
+Chevrolet Traverse,24
+Toyota 4Runner,16
+Lamborghini Gallardo Coup,1
+Chevrolet Equinox,43
+Chevrolet Aveo,5
+Ford Mustang Coup,25
+Audi A4 Avant,3
+BMW M3 Sedan,2
+Chevrolet Tahoe,12
+Infiniti G37 Coupe,12
+Infiniti FX,9
+Mazda Mazda2,8
+Mercury Grand Marquis,2
+Maserati GranTurismo Coup,4
+Honda Civic Coup,17
+Mitsubishi Lancer,6
+Infiniti G25,6
+Rolls-Royce Phantom Drophead Coupe,2
+Ford E-150 Wagon,10
+Bentley Continental Flying Spur,5
+Subaru Forester,23
+Honda Accord Coup,7

@@ -11,14 +11,12 @@ path_txt = Path(data_dir, "cars.txt")
 
 # 2. Read the text file [2P]
 
-
 with open(path_txt) as file:
     cars = [line.rstrip() for line in file]
 
 # 3. Count the occurences of each item in the text file [2P]
 
-carnumber = [[x,cars.count(x)] for x in set(cars)]
-
+carnumbers = dict((x,cars.count(x)) for x in set(cars))
 
 # 4. Using `pathlib` check if a directory with name `solution` exists and if not create it [2P]
 
@@ -36,9 +34,10 @@ print("Directory exists after creation: {}".format(subdir.exists()))
 #    item_name_2, item_count_2
 #    ...
 
-
 import csv
 
-with open(output_dir / 'counts.csv', 'w') as myfile:
-     wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
-     wr.writerow(carnumber)
+with open(output_dir / 'counts.csv', "w") as myfile:
+    writer = csv.DictWriter(myfile, fieldnames=["item", "count"]) 
+    writer.writeheader()
+    for key in carnumbers.keys():
+            myfile.write("%s,%s\n"%(key,carnumbers[key])) 
